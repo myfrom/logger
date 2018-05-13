@@ -1,0 +1,25 @@
+{
+  "name": "logger",
+  "version": "0.1.0",
+  "description": "Print your errors but in a beautiful way",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myfrom/logger.git"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "output",
+    "print"
+  ],
+  "author": "Wiktor Olejncizak <myfrom.13th@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myfrom/logger/issues"
+  },
+  "homepage": "https://github.com/myfrom/logger#readme"
+}
